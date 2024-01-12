@@ -32,7 +32,7 @@ To run the script and obtain the job information:
 
 ## Code Structure
 
-The main script is `scrape_coursera_jobs.py`, which includes:
+The main script is `Web_Scrapping_Job_Vacancies.ipynb`, which includes:
 
 - HTML structure identification.
 - Web scraping logic using `requests` and `BeautifulSoup`.
